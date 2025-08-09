@@ -1,4 +1,4 @@
-<FullSizeRender.html?
+<FullSizeRender.html>
 # Soumil Jain
 ## Farmington High School
 ## Email: soumiljain.08@gmail.com
