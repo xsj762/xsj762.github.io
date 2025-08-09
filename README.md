@@ -1,4 +1,4 @@
-<FullSizeRender.html>
+![image alt](https://github.com/xsj762/xsj762.github.io/blob/9c9d4d3ad527ea557d34c55c81566e40a2f9ada3/FullSizeRender.heic)
 # Soumil Jain
 ## Farmington High School
 ## Email: soumiljain.08@gmail.com
